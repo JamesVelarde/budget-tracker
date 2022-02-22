@@ -1,4 +1,4 @@
-# budget-tracker# Progressive Web Applications (PWA) Challenge: Budget Tracker
+# Progressive Web Applications (PWA) Challenge: Budget Tracker
 
 ## Description
 
@@ -21,7 +21,7 @@ WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated  
 
 ### Website Link
-Check out the deployed app: [Budget Tracker](https://salty-wildwood-14961.herokuapp.com)
+Check out the deployed app: [Budget Tracker](https://serene-sierra-83506.herokuapp.com/)
 
 ### Screenshots
 
